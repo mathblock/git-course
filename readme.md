@@ -7,6 +7,7 @@ Bienvenue dans le dépôt de mon projet. Ce projet est conçu pour démontrer le
 - Fonctionnalité 2 : Description de la fonctionnalité 2.
 - Fonctionnalité 3 : Description de la fonctionnalité 3.
 
+Héloïse
 
 
 Télécharger git sur sa machine : https://git-scm.com/downloads

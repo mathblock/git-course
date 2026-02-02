@@ -30,3 +30,4 @@ git switch <nom de la branche> = retourner sur une branche
 ----
 // Avant de faire un merge, se positionner sur la branche cible
 git merge <nom de la branche> = fusionner une branche dans la branche courante
+styven wilfried

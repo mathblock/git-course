@@ -33,3 +33,4 @@ git merge <nom de la branche> = fusionner une branche dans la branche courante
 
 ---
 // creation de la branche brindel 
+//creation de la branche de simone
